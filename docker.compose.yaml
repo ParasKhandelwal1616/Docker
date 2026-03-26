@@ -11,4 +11,8 @@ services:
 
  mongo-express:
   image: mongo-express
-  ports: 
+  ports: 5000
+
+ postgress:
+  image: postgress
+  port-300
