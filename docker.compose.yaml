@@ -15,4 +15,4 @@ services:
 
  postgress:
   image: postgress
-  port-300
+  port: 3000
